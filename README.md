@@ -11,11 +11,13 @@ groupadd Casa
 Creamos 2 usuarios
 --------------------------
 useradd Rosa
+
 useradd Williams
 -----------------------------
 Agregamos usuarios a un grupo
 -----------------------------
 add user Rosa Casa
+
 add user Williams Casa
 
 -------------------------------------------------
