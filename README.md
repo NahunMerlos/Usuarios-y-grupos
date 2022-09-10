@@ -16,9 +16,9 @@ useradd Williams
 -----------------------------
 Agregamos usuarios a un grupo
 -----------------------------
-add user Rosa Casa
+adduser Rosa Casa
 
-add user Williams Casa
+adduser Williams Casa
 
 -------------------------------------------------
 3- Cambiamos el nombre del grupo Casa a Familia.
