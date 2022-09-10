@@ -10,15 +10,15 @@ groupadd Casa
 ------------------------------------------------------------------------------------------------------------------
 Creamos 2 usuarios
 --------------------------
-useradd Rosa
+useradd Franklin
 
-useradd Williams
+useradd Nahun
 -----------------------------
 Agregamos usuarios a un grupo
 -----------------------------
-adduser Rosa Casa
+adduser Franklin Casa
 
-adduser Williams Casa
+adduser Nahun Casa
 
 -------------------------------------------------
 3- Cambiamos el nombre del grupo Casa a Familia.
