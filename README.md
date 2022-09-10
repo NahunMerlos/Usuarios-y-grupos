@@ -13,6 +13,7 @@ Creamos 2 usuarios
 useradd Franklin
 
 useradd Nahun
+
 -----------------------------
 Agregamos usuarios a un grupo
 -----------------------------
